@@ -23,7 +23,7 @@ r adalah read untuk membuka file untuk membaca, error jika file tidak ada. jika 
 ![foto3](foto/foto3.png)
 
 ### Penjelasan 4
-ini bukan error, karena ketika try dan except dijalankan maka akan berhasil dibuat filenya.
+ini bukan error, karena ketika finally, try dan except dijalankan maka akan berhasil dibuat filenya.
 
 ![foto4](foto/foto4.png)
 
