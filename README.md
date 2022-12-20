@@ -33,6 +33,6 @@ ketika dijalankan akan muncul error. karena `Argument: is not defined`.
 ![foto5](foto/foto5.png)
 
 ### Penjelasan 6
-ketika dijalankan error artinya ada kesalahan terdapat pada sintaks. pada `raise "Invalid level!", level` ganti tanda koma dengan tanda plus. cetak def angka yang lebih besar dari 1.
+ketika dijalankan error artinya ada kesalahan terdapat pada sintaks. pada `raise "Invalid level!", "level"` ganti tanda koma dengan tanda plus. cetak def angka yang lebih besar dari 1.
 
 ![foto6](foto/foto6.png)
